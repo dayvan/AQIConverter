@@ -5,6 +5,7 @@
 // @description	Converts the AQI value to μg/m3 for PM2.5 on the aqicn.org website.
 // @author		Dayvan
 // @match		http://aqicn.org/city/*
+// @match		https://aqicn.org/city/*
 // @grant		none
 // ==/UserScript==
 
